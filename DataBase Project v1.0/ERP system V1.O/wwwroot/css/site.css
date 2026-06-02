@@ -1,0 +1,286 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f7f1;
+    color: #222;
+}
+
+.warq-workspace {
+    display: grid;
+    grid-template-columns: 230px 1fr;
+    gap: 18px;
+    min-height: 100vh;
+    padding: 18px;
+}
+
+.warq-navigation,
+.module-heading,
+.erp-card,
+.erp-kpi-card {
+    background: white;
+    border-radius: 18px;
+    box-shadow: 0 8px 20px #d6ddd3;
+}
+
+.warq-navigation {
+    padding: 18px;
+}
+
+.warq-brand-block {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.warq-mark,
+.operator-initial {
+    background: #21a957;
+    color: white;
+    display: grid;
+    place-items: center;
+    font-weight: bold;
+}
+
+.warq-mark {
+    width: 48px;
+    height: 48px;
+    border-radius: 14px;
+}
+
+.operator-initial {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.warq-brand-block h1 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.warq-module-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.warq-module-link {
+    color: #333;
+    text-decoration: none;
+    padding: 11px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.warq-module-link:hover {
+    background: #e7f4ea;
+}
+
+.operator-area {
+    margin-top: 360px;
+}
+
+.operator-card {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    border: 1px solid #dfe8dc;
+    border-radius: 14px;
+    padding: 12px;
+}
+
+.erp-main-area {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.module-heading,
+.erp-card,
+.erp-kpi-card {
+    padding: 20px;
+}
+
+.module-heading h2,
+.card-title-row h3 {
+    margin: 0;
+}
+
+.erp-summary-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.erp-kpi-card strong {
+    display: block;
+    font-size: 28px;
+    margin-top: 8px;
+}
+
+.erp-kpi-symbol {
+    float: right;
+    background: #e8f7ed;
+    color: #21a957;
+    padding: 12px;
+    border-radius: 12px;
+}
+
+.dashboard-panels.two-column-report {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+.erp-entry-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+}
+
+.erp-entry-form label {
+    font-weight: bold;
+}
+
+.erp-entry-form input,
+.erp-entry-form select {
+    width: 100%;
+    margin-top: 6px;
+    padding: 11px;
+    border: 1px solid #cfd8cc;
+    border-radius: 10px;
+}
+
+.form-button-row,
+.row-action-buttons {
+    display: flex;
+    gap: 8px;
+    align-items: end;
+}
+
+.warq-button {
+    border: 0;
+    padding: 10px 14px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.warq-save {
+    background: #21a957;
+    color: white;
+}
+
+.warq-light {
+    background: #eef2ec;
+    color: #222;
+}
+
+.warq-delete {
+    background: #d64545;
+    color: white;
+}
+
+.form-result-note {
+    margin: 12px 0;
+    color: #168143;
+    font-weight: bold;
+}
+
+.erp-table-frame {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 12px;
+    border-bottom: 1px solid #e5ebe2;
+    text-align: left;
+}
+
+th {
+    background: #f3f7f0;
+}
+
+.status-pill {
+    padding: 5px 9px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.status-complete,
+.stock-available {
+    background: #dff5e6;
+    color: #157a3b;
+}
+
+.status-waiting,
+.stock-low {
+    background: #fff0cb;
+    color: #9a6800;
+}
+
+.status-cancelled,
+.stock-critical {
+    background: #ffdada;
+    color: #a32323;
+}
+
+.purchase-card {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #e3eadf;
+    border-radius: 12px;
+    padding: 12px;
+    margin-bottom: 10px;
+}
+
+.supporting-text {
+    color: #666;
+}
+
+.stock-meter {
+    display: grid;
+    grid-template-columns: 130px 1fr 40px;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+.stock-track {
+    height: 14px;
+    background: #e4eadf;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.stock-fill {
+    height: 100%;
+    background: #21a957;
+}
+
+@media (max-width: 900px) {
+    .warq-workspace,
+    .dashboard-panels.two-column-report,
+    .erp-summary-row,
+    .erp-entry-form {
+        display: block;
+    }
+
+    .warq-navigation,
+    .erp-card,
+    .erp-kpi-card {
+        margin-bottom: 15px;
+    }
+
+    .operator-area {
+        margin-top: 25px;
+    }
+}

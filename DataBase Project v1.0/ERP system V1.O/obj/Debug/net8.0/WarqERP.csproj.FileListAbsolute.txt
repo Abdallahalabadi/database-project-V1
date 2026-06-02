@@ -1,0 +1,76 @@
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\appsettings.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\WarqERP.staticwebassets.runtime.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\WarqERP.staticwebassets.endpoints.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\WarqERP.exe
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\WarqERP.deps.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\WarqERP.runtimeconfig.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\WarqERP.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\WarqERP.pdb
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.csproj.AssemblyReference.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.AssemblyInfoInputs.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.AssemblyInfo.cs
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.csproj.CoreCompileInputs.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.RazorAssemblyInfo.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.RazorAssemblyInfo.cs
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\scopedcss\bundle\WarqERP.styles.css
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.csproj.Up2Date
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\refint\WarqERP.dll
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.pdb
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\WarqERP.genruntimeconfig.cache
+C:\Users\anwar\OneDrive\Desktop\WarqERP_SimpleHuman\obj\Debug\net8.0\ref\WarqERP.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\appsettings.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\WarqERP.staticwebassets.endpoints.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\WarqERP.staticwebassets.runtime.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\WarqERP.exe
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\WarqERP.deps.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\WarqERP.runtimeconfig.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\WarqERP.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\WarqERP.pdb
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.csproj.AssemblyReference.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.AssemblyInfoInputs.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.AssemblyInfo.cs
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.csproj.CoreCompileInputs.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.RazorAssemblyInfo.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.RazorAssemblyInfo.cs
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\scopedcss\bundle\WarqERP.styles.css
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.csproj.Up2Date
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\refint\WarqERP.dll
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.pdb
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\WarqERP.genruntimeconfig.cache
+C:\Users\anwar\OneDrive\Desktop\ERP system V1.O\obj\Debug\net8.0\ref\WarqERP.dll

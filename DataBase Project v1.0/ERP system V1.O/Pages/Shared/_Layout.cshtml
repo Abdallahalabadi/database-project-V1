@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Warq ERP</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="warq-workspace">
+        <aside class="warq-navigation">
+            <div class="warq-brand-block">
+                <div class="warq-brand-block-logo">ERP</div>
+                <div>
+                    <h1>Warq ERP</h1>
+                </div>
+            </div>
+
+            <nav class="warq-module-menu">
+                <a asp-page="/Index" class="warq-module-link">◫ <span>Dashboard</span></a>
+                <a asp-page="/Suppliers" class="warq-module-link">⛟ <span>Suppliers</span></a>
+                <a asp-page="/Products" class="warq-module-link">◧ <span>Products</span></a>
+                <a asp-page="/Employees" class="warq-module-link">☻ <span>Employees</span></a>
+                <a asp-page="/PurchaseOrders" class="warq-module-link">🧾 <span>Purchase Orders</span></a>
+                <a asp-page="/Inventory" class="warq-module-link">▤ <span>Inventory</span></a>
+            </nav>
+
+            <div class="warq-navigation-footer">
+                <div class="operator-card">
+                    <div class="operator-initial">A</div>
+                    <div>
+                        <strong>Admin User</strong>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <main class="erp-main-area">
+            @RenderBody()
+        </main>
+    </div>
+</body>
+</html>

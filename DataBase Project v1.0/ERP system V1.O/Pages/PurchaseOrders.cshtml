@@ -1,0 +1,92 @@
+@page
+@model PurchaseOrdersModel
+@{
+    ViewData["Title"] = "Purchase Orders";
+}
+
+<header class="module-heading">
+    <div>
+        <h2>Purchase Orders</h2>
+    </div>
+</header>
+
+<section class="erp-card">
+    <div class="erp-card-header">
+        <h3>Create Purchase Order</h3>
+    </div>
+
+    <form method="post" asp-page-handler="Save" class="erp-entry-form">
+        <label>Supplier
+            <select name="SupplierId">
+                @foreach (var supplier in Model.suppliers)
+                {
+                    <option value="@supplier.SupplierId">@supplier.SupplierName</option>
+                }
+            </select>
+        </label>
+
+        <label>Responsible Employee
+            <select name="EmployeeId">
+                @foreach (var employee in Model.employees)
+                {
+                    <option value="@employee.EmployeeId">@employee.FirstName @employee.LastName</option>
+                }
+            </select>
+        </label>
+
+        <label>Product
+            <select name="ProductId">
+                @foreach (var product in Model.products)
+                {
+                    <option value="@product.ProductId">@product.ProductName - Stock: @product.StockQuantity</option>
+                }
+            </select>
+        </label>
+
+        <label>Quantity
+            <input name="Quantity" type="number" min="1" value="1" required />
+        </label>
+
+        <label>Status
+            <select name="Status">
+                <option>Completed</option>
+                <option>Pending</option>
+                <option>Cancelled</option>
+            </select>
+        </label>
+
+        <div class="form-button-row">
+            <button class="warq-button warq-save" type="submit">Create Order</button>
+        </div>
+    </form>
+
+    <div class="form-result-note">@Model.statusMessage</div>
+
+    <div class="erp-table-frame">
+        <table>
+            <thead>
+                <tr><th>ID</th><th>Date</th><th>Supplier</th><th>Employee</th><th>Product</th><th>Qty</th><th>Total</th><th>Status</th><th>Actions</th></tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model.orders)
+            {
+                <tr>
+                    <td>#@item.PurchaseOrderId</td>
+                    <td>@item.OrderDate</td>
+                    <td>@item.SupplierName</td>
+                    <td>@item.EmployeeName</td>
+                    <td>@item.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>$@item.TotalAmount</td>
+                    <td><span class="status-pill @(item.Status == "Completed" ? "good" : item.Status == "Pending" ? "pending" : "cancelled")">@item.Status</span></td>
+                    <td class="row-action-buttons">
+                        <form method="post" asp-page-handler="Delete" asp-route-id="@item.PurchaseOrderId" onsubmit="return confirm('Delete this order?');">
+                            <button class="warq-button warq-delete" type="submit">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</section>
